@@ -1,7 +1,7 @@
 package com.example.helpmenow.model
 
 /**
- *  @param ambulanceLocation will hold Latitude and Longitude ex. ["123123","456456"].
+ *  @param ambulanceLocation will hold Latitude and Longitude ex. [123123.45,456456.45].
  */
 data class Driver(
     val driverInfo: Person,
